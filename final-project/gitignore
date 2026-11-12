@@ -1,0 +1,6 @@
+inventory
+inventory.exe
+checker
+checker.exe
+runs/
+*.o
